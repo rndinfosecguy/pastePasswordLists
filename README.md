@@ -6,4 +6,4 @@ On paste sites like pastebin.com and ghostbin.co criminals and other actors publ
 
 HINT: The lists have been anonymized, so they do not contain the account name where the password is or was used!
 
-This is an ongoing project, so the lists may differe from time to time.
+This is an ongoing project, so the lists may differ from time to time.
